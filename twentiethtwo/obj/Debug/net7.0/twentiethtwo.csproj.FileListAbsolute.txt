@@ -1,0 +1,28 @@
+C:\Users\asm\Desktop\ITI-Course\C#\twentiethtwo\bin\Debug\net7.0\twentiethtwo.exe
+C:\Users\asm\Desktop\ITI-Course\C#\twentiethtwo\bin\Debug\net7.0\twentiethtwo.deps.json
+C:\Users\asm\Desktop\ITI-Course\C#\twentiethtwo\bin\Debug\net7.0\twentiethtwo.runtimeconfig.json
+C:\Users\asm\Desktop\ITI-Course\C#\twentiethtwo\bin\Debug\net7.0\twentiethtwo.dll
+C:\Users\asm\Desktop\ITI-Course\C#\twentiethtwo\bin\Debug\net7.0\twentiethtwo.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\twentiethtwo\obj\Debug\net7.0\twentiethtwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asm\Desktop\ITI-Course\C#\twentiethtwo\obj\Debug\net7.0\twentiethtwo.AssemblyInfoInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\twentiethtwo\obj\Debug\net7.0\twentiethtwo.AssemblyInfo.cs
+C:\Users\asm\Desktop\ITI-Course\C#\twentiethtwo\obj\Debug\net7.0\twentiethtwo.csproj.CoreCompileInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\twentiethtwo\obj\Debug\net7.0\twentiethtwo.dll
+C:\Users\asm\Desktop\ITI-Course\C#\twentiethtwo\obj\Debug\net7.0\refint\twentiethtwo.dll
+C:\Users\asm\Desktop\ITI-Course\C#\twentiethtwo\obj\Debug\net7.0\twentiethtwo.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\twentiethtwo\obj\Debug\net7.0\twentiethtwo.genruntimeconfig.cache
+C:\Users\asm\Desktop\ITI-Course\C#\twentiethtwo\obj\Debug\net7.0\ref\twentiethtwo.dll
+C:\Users\asm\Desktop\ITI-Course 1Month\C#\twentiethtwo\bin\Debug\net7.0\twentiethtwo.exe
+C:\Users\asm\Desktop\ITI-Course 1Month\C#\twentiethtwo\bin\Debug\net7.0\twentiethtwo.deps.json
+C:\Users\asm\Desktop\ITI-Course 1Month\C#\twentiethtwo\bin\Debug\net7.0\twentiethtwo.runtimeconfig.json
+C:\Users\asm\Desktop\ITI-Course 1Month\C#\twentiethtwo\bin\Debug\net7.0\twentiethtwo.dll
+C:\Users\asm\Desktop\ITI-Course 1Month\C#\twentiethtwo\bin\Debug\net7.0\twentiethtwo.pdb
+C:\Users\asm\Desktop\ITI-Course 1Month\C#\twentiethtwo\obj\Debug\net7.0\twentiethtwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asm\Desktop\ITI-Course 1Month\C#\twentiethtwo\obj\Debug\net7.0\twentiethtwo.AssemblyInfoInputs.cache
+C:\Users\asm\Desktop\ITI-Course 1Month\C#\twentiethtwo\obj\Debug\net7.0\twentiethtwo.AssemblyInfo.cs
+C:\Users\asm\Desktop\ITI-Course 1Month\C#\twentiethtwo\obj\Debug\net7.0\twentiethtwo.csproj.CoreCompileInputs.cache
+C:\Users\asm\Desktop\ITI-Course 1Month\C#\twentiethtwo\obj\Debug\net7.0\twentiethtwo.dll
+C:\Users\asm\Desktop\ITI-Course 1Month\C#\twentiethtwo\obj\Debug\net7.0\refint\twentiethtwo.dll
+C:\Users\asm\Desktop\ITI-Course 1Month\C#\twentiethtwo\obj\Debug\net7.0\twentiethtwo.pdb
+C:\Users\asm\Desktop\ITI-Course 1Month\C#\twentiethtwo\obj\Debug\net7.0\twentiethtwo.genruntimeconfig.cache
+C:\Users\asm\Desktop\ITI-Course 1Month\C#\twentiethtwo\obj\Debug\net7.0\ref\twentiethtwo.dll

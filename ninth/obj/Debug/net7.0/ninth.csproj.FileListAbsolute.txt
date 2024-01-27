@@ -1,0 +1,14 @@
+C:\Users\asm\Desktop\ITI-Course\C#\ninth\bin\Debug\net7.0\ninth.exe
+C:\Users\asm\Desktop\ITI-Course\C#\ninth\bin\Debug\net7.0\ninth.deps.json
+C:\Users\asm\Desktop\ITI-Course\C#\ninth\bin\Debug\net7.0\ninth.runtimeconfig.json
+C:\Users\asm\Desktop\ITI-Course\C#\ninth\bin\Debug\net7.0\ninth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\ninth\bin\Debug\net7.0\ninth.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\ninth\obj\Debug\net7.0\ninth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asm\Desktop\ITI-Course\C#\ninth\obj\Debug\net7.0\ninth.AssemblyInfoInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\ninth\obj\Debug\net7.0\ninth.AssemblyInfo.cs
+C:\Users\asm\Desktop\ITI-Course\C#\ninth\obj\Debug\net7.0\ninth.csproj.CoreCompileInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\ninth\obj\Debug\net7.0\ninth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\ninth\obj\Debug\net7.0\refint\ninth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\ninth\obj\Debug\net7.0\ninth.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\ninth\obj\Debug\net7.0\ninth.genruntimeconfig.cache
+C:\Users\asm\Desktop\ITI-Course\C#\ninth\obj\Debug\net7.0\ref\ninth.dll

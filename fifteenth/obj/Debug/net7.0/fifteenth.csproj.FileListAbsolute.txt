@@ -1,0 +1,14 @@
+C:\Users\asm\Desktop\ITI-Course\C#\fifteenth\bin\Debug\net7.0\fifteenth.exe
+C:\Users\asm\Desktop\ITI-Course\C#\fifteenth\bin\Debug\net7.0\fifteenth.deps.json
+C:\Users\asm\Desktop\ITI-Course\C#\fifteenth\bin\Debug\net7.0\fifteenth.runtimeconfig.json
+C:\Users\asm\Desktop\ITI-Course\C#\fifteenth\bin\Debug\net7.0\fifteenth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\fifteenth\bin\Debug\net7.0\fifteenth.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\fifteenth\obj\Debug\net7.0\fifteenth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asm\Desktop\ITI-Course\C#\fifteenth\obj\Debug\net7.0\fifteenth.AssemblyInfoInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\fifteenth\obj\Debug\net7.0\fifteenth.AssemblyInfo.cs
+C:\Users\asm\Desktop\ITI-Course\C#\fifteenth\obj\Debug\net7.0\fifteenth.csproj.CoreCompileInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\fifteenth\obj\Debug\net7.0\fifteenth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\fifteenth\obj\Debug\net7.0\refint\fifteenth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\fifteenth\obj\Debug\net7.0\fifteenth.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\fifteenth\obj\Debug\net7.0\fifteenth.genruntimeconfig.cache
+C:\Users\asm\Desktop\ITI-Course\C#\fifteenth\obj\Debug\net7.0\ref\fifteenth.dll

@@ -1,0 +1,14 @@
+C:\Users\asm\Desktop\ITI-Course\C#\forth\bin\Debug\net7.0\forth.exe
+C:\Users\asm\Desktop\ITI-Course\C#\forth\bin\Debug\net7.0\forth.deps.json
+C:\Users\asm\Desktop\ITI-Course\C#\forth\bin\Debug\net7.0\forth.runtimeconfig.json
+C:\Users\asm\Desktop\ITI-Course\C#\forth\bin\Debug\net7.0\forth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\forth\bin\Debug\net7.0\forth.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\forth\obj\Debug\net7.0\forth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asm\Desktop\ITI-Course\C#\forth\obj\Debug\net7.0\forth.AssemblyInfoInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\forth\obj\Debug\net7.0\forth.AssemblyInfo.cs
+C:\Users\asm\Desktop\ITI-Course\C#\forth\obj\Debug\net7.0\forth.csproj.CoreCompileInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\forth\obj\Debug\net7.0\forth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\forth\obj\Debug\net7.0\refint\forth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\forth\obj\Debug\net7.0\forth.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\forth\obj\Debug\net7.0\forth.genruntimeconfig.cache
+C:\Users\asm\Desktop\ITI-Course\C#\forth\obj\Debug\net7.0\ref\forth.dll

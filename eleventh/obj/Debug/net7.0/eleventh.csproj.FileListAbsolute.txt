@@ -1,0 +1,14 @@
+C:\Users\asm\Desktop\ITI-Course\C#\eleventh\bin\Debug\net7.0\eleventh.exe
+C:\Users\asm\Desktop\ITI-Course\C#\eleventh\bin\Debug\net7.0\eleventh.deps.json
+C:\Users\asm\Desktop\ITI-Course\C#\eleventh\bin\Debug\net7.0\eleventh.runtimeconfig.json
+C:\Users\asm\Desktop\ITI-Course\C#\eleventh\bin\Debug\net7.0\eleventh.dll
+C:\Users\asm\Desktop\ITI-Course\C#\eleventh\bin\Debug\net7.0\eleventh.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\eleventh\obj\Debug\net7.0\eleventh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asm\Desktop\ITI-Course\C#\eleventh\obj\Debug\net7.0\eleventh.AssemblyInfoInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\eleventh\obj\Debug\net7.0\eleventh.AssemblyInfo.cs
+C:\Users\asm\Desktop\ITI-Course\C#\eleventh\obj\Debug\net7.0\eleventh.csproj.CoreCompileInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\eleventh\obj\Debug\net7.0\eleventh.dll
+C:\Users\asm\Desktop\ITI-Course\C#\eleventh\obj\Debug\net7.0\refint\eleventh.dll
+C:\Users\asm\Desktop\ITI-Course\C#\eleventh\obj\Debug\net7.0\eleventh.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\eleventh\obj\Debug\net7.0\eleventh.genruntimeconfig.cache
+C:\Users\asm\Desktop\ITI-Course\C#\eleventh\obj\Debug\net7.0\ref\eleventh.dll

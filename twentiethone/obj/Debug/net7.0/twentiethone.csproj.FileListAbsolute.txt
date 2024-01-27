@@ -1,0 +1,14 @@
+C:\Users\asm\Desktop\ITI-Course\C#\twentiethone\bin\Debug\net7.0\twentiethone.exe
+C:\Users\asm\Desktop\ITI-Course\C#\twentiethone\bin\Debug\net7.0\twentiethone.deps.json
+C:\Users\asm\Desktop\ITI-Course\C#\twentiethone\bin\Debug\net7.0\twentiethone.runtimeconfig.json
+C:\Users\asm\Desktop\ITI-Course\C#\twentiethone\bin\Debug\net7.0\twentiethone.dll
+C:\Users\asm\Desktop\ITI-Course\C#\twentiethone\bin\Debug\net7.0\twentiethone.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\twentiethone\obj\Debug\net7.0\twentiethone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asm\Desktop\ITI-Course\C#\twentiethone\obj\Debug\net7.0\twentiethone.AssemblyInfoInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\twentiethone\obj\Debug\net7.0\twentiethone.AssemblyInfo.cs
+C:\Users\asm\Desktop\ITI-Course\C#\twentiethone\obj\Debug\net7.0\twentiethone.csproj.CoreCompileInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\twentiethone\obj\Debug\net7.0\twentiethone.dll
+C:\Users\asm\Desktop\ITI-Course\C#\twentiethone\obj\Debug\net7.0\refint\twentiethone.dll
+C:\Users\asm\Desktop\ITI-Course\C#\twentiethone\obj\Debug\net7.0\twentiethone.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\twentiethone\obj\Debug\net7.0\twentiethone.genruntimeconfig.cache
+C:\Users\asm\Desktop\ITI-Course\C#\twentiethone\obj\Debug\net7.0\ref\twentiethone.dll

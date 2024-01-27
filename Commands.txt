@@ -1,0 +1,15 @@
+
+clear
+ 
+dotnet new "console" -lang "C#" -n "name" -o "name"
+dotnet sln "c:\Users\asm\Desktop\ITI-Course\C#\Second.sln" add "c:\Users\asm\Desktop\ITI-Course\C#\name\name.csproj" --> to Add new project
+twentiethone
+
+cd "c:\Users\asm\Desktop\ITI-Course\C#"
+
+cd C:\Users\asm\Desktop\ITI-Course\C#\forth
+
+dotnet run
+
+
+

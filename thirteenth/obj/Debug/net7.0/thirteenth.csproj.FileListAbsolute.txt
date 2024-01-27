@@ -1,0 +1,14 @@
+C:\Users\asm\Desktop\ITI-Course\C#\thirteenth\bin\Debug\net7.0\thirteenth.exe
+C:\Users\asm\Desktop\ITI-Course\C#\thirteenth\bin\Debug\net7.0\thirteenth.deps.json
+C:\Users\asm\Desktop\ITI-Course\C#\thirteenth\bin\Debug\net7.0\thirteenth.runtimeconfig.json
+C:\Users\asm\Desktop\ITI-Course\C#\thirteenth\bin\Debug\net7.0\thirteenth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\thirteenth\bin\Debug\net7.0\thirteenth.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\thirteenth\obj\Debug\net7.0\thirteenth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asm\Desktop\ITI-Course\C#\thirteenth\obj\Debug\net7.0\thirteenth.AssemblyInfoInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\thirteenth\obj\Debug\net7.0\thirteenth.AssemblyInfo.cs
+C:\Users\asm\Desktop\ITI-Course\C#\thirteenth\obj\Debug\net7.0\thirteenth.csproj.CoreCompileInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\thirteenth\obj\Debug\net7.0\thirteenth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\thirteenth\obj\Debug\net7.0\refint\thirteenth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\thirteenth\obj\Debug\net7.0\thirteenth.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\thirteenth\obj\Debug\net7.0\thirteenth.genruntimeconfig.cache
+C:\Users\asm\Desktop\ITI-Course\C#\thirteenth\obj\Debug\net7.0\ref\thirteenth.dll

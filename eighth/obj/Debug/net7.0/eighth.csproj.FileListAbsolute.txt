@@ -1,0 +1,14 @@
+C:\Users\asm\Desktop\ITI-Course\C#\eighth\bin\Debug\net7.0\eighth.exe
+C:\Users\asm\Desktop\ITI-Course\C#\eighth\bin\Debug\net7.0\eighth.deps.json
+C:\Users\asm\Desktop\ITI-Course\C#\eighth\bin\Debug\net7.0\eighth.runtimeconfig.json
+C:\Users\asm\Desktop\ITI-Course\C#\eighth\bin\Debug\net7.0\eighth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\eighth\bin\Debug\net7.0\eighth.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\eighth\obj\Debug\net7.0\eighth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asm\Desktop\ITI-Course\C#\eighth\obj\Debug\net7.0\eighth.AssemblyInfoInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\eighth\obj\Debug\net7.0\eighth.AssemblyInfo.cs
+C:\Users\asm\Desktop\ITI-Course\C#\eighth\obj\Debug\net7.0\eighth.csproj.CoreCompileInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\eighth\obj\Debug\net7.0\eighth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\eighth\obj\Debug\net7.0\refint\eighth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\eighth\obj\Debug\net7.0\eighth.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\eighth\obj\Debug\net7.0\eighth.genruntimeconfig.cache
+C:\Users\asm\Desktop\ITI-Course\C#\eighth\obj\Debug\net7.0\ref\eighth.dll

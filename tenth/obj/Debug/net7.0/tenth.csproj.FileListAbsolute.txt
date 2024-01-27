@@ -1,0 +1,14 @@
+C:\Users\asm\Desktop\ITI-Course\C#\tenth\bin\Debug\net7.0\tenth.exe
+C:\Users\asm\Desktop\ITI-Course\C#\tenth\bin\Debug\net7.0\tenth.deps.json
+C:\Users\asm\Desktop\ITI-Course\C#\tenth\bin\Debug\net7.0\tenth.runtimeconfig.json
+C:\Users\asm\Desktop\ITI-Course\C#\tenth\bin\Debug\net7.0\tenth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\tenth\bin\Debug\net7.0\tenth.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\tenth\obj\Debug\net7.0\tenth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asm\Desktop\ITI-Course\C#\tenth\obj\Debug\net7.0\tenth.AssemblyInfoInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\tenth\obj\Debug\net7.0\tenth.AssemblyInfo.cs
+C:\Users\asm\Desktop\ITI-Course\C#\tenth\obj\Debug\net7.0\tenth.csproj.CoreCompileInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\tenth\obj\Debug\net7.0\tenth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\tenth\obj\Debug\net7.0\refint\tenth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\tenth\obj\Debug\net7.0\tenth.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\tenth\obj\Debug\net7.0\tenth.genruntimeconfig.cache
+C:\Users\asm\Desktop\ITI-Course\C#\tenth\obj\Debug\net7.0\ref\tenth.dll

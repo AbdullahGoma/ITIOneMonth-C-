@@ -1,0 +1,14 @@
+C:\Users\asm\Desktop\ITI-Course\C#\eighteenth\bin\Debug\net7.0\eighteenth.exe
+C:\Users\asm\Desktop\ITI-Course\C#\eighteenth\bin\Debug\net7.0\eighteenth.deps.json
+C:\Users\asm\Desktop\ITI-Course\C#\eighteenth\bin\Debug\net7.0\eighteenth.runtimeconfig.json
+C:\Users\asm\Desktop\ITI-Course\C#\eighteenth\bin\Debug\net7.0\eighteenth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\eighteenth\bin\Debug\net7.0\eighteenth.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\eighteenth\obj\Debug\net7.0\eighteenth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asm\Desktop\ITI-Course\C#\eighteenth\obj\Debug\net7.0\eighteenth.AssemblyInfoInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\eighteenth\obj\Debug\net7.0\eighteenth.AssemblyInfo.cs
+C:\Users\asm\Desktop\ITI-Course\C#\eighteenth\obj\Debug\net7.0\eighteenth.csproj.CoreCompileInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\eighteenth\obj\Debug\net7.0\eighteenth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\eighteenth\obj\Debug\net7.0\refint\eighteenth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\eighteenth\obj\Debug\net7.0\eighteenth.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\eighteenth\obj\Debug\net7.0\eighteenth.genruntimeconfig.cache
+C:\Users\asm\Desktop\ITI-Course\C#\eighteenth\obj\Debug\net7.0\ref\eighteenth.dll

@@ -1,0 +1,14 @@
+C:\Users\asm\Desktop\ITI-Course\C#\siventeenth\bin\Debug\net7.0\siventeenth.exe
+C:\Users\asm\Desktop\ITI-Course\C#\siventeenth\bin\Debug\net7.0\siventeenth.deps.json
+C:\Users\asm\Desktop\ITI-Course\C#\siventeenth\bin\Debug\net7.0\siventeenth.runtimeconfig.json
+C:\Users\asm\Desktop\ITI-Course\C#\siventeenth\bin\Debug\net7.0\siventeenth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\siventeenth\bin\Debug\net7.0\siventeenth.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\siventeenth\obj\Debug\net7.0\siventeenth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asm\Desktop\ITI-Course\C#\siventeenth\obj\Debug\net7.0\siventeenth.AssemblyInfoInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\siventeenth\obj\Debug\net7.0\siventeenth.AssemblyInfo.cs
+C:\Users\asm\Desktop\ITI-Course\C#\siventeenth\obj\Debug\net7.0\siventeenth.csproj.CoreCompileInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\siventeenth\obj\Debug\net7.0\siventeenth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\siventeenth\obj\Debug\net7.0\refint\siventeenth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\siventeenth\obj\Debug\net7.0\siventeenth.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\siventeenth\obj\Debug\net7.0\siventeenth.genruntimeconfig.cache
+C:\Users\asm\Desktop\ITI-Course\C#\siventeenth\obj\Debug\net7.0\ref\siventeenth.dll

@@ -1,0 +1,14 @@
+C:\Users\asm\Desktop\ITI-Course\C#\seventh\obj\Debug\net7.0\seventh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asm\Desktop\ITI-Course\C#\seventh\obj\Debug\net7.0\seventh.AssemblyInfoInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\seventh\obj\Debug\net7.0\seventh.AssemblyInfo.cs
+C:\Users\asm\Desktop\ITI-Course\C#\seventh\obj\Debug\net7.0\seventh.csproj.CoreCompileInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\seventh\bin\Debug\net7.0\seventh.exe
+C:\Users\asm\Desktop\ITI-Course\C#\seventh\bin\Debug\net7.0\seventh.deps.json
+C:\Users\asm\Desktop\ITI-Course\C#\seventh\bin\Debug\net7.0\seventh.runtimeconfig.json
+C:\Users\asm\Desktop\ITI-Course\C#\seventh\bin\Debug\net7.0\seventh.dll
+C:\Users\asm\Desktop\ITI-Course\C#\seventh\bin\Debug\net7.0\seventh.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\seventh\obj\Debug\net7.0\seventh.dll
+C:\Users\asm\Desktop\ITI-Course\C#\seventh\obj\Debug\net7.0\refint\seventh.dll
+C:\Users\asm\Desktop\ITI-Course\C#\seventh\obj\Debug\net7.0\seventh.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\seventh\obj\Debug\net7.0\seventh.genruntimeconfig.cache
+C:\Users\asm\Desktop\ITI-Course\C#\seventh\obj\Debug\net7.0\ref\seventh.dll

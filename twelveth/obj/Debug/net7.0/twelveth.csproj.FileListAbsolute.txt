@@ -1,0 +1,14 @@
+C:\Users\asm\Desktop\ITI-Course\C#\twelveth\bin\Debug\net7.0\twelveth.exe
+C:\Users\asm\Desktop\ITI-Course\C#\twelveth\bin\Debug\net7.0\twelveth.deps.json
+C:\Users\asm\Desktop\ITI-Course\C#\twelveth\bin\Debug\net7.0\twelveth.runtimeconfig.json
+C:\Users\asm\Desktop\ITI-Course\C#\twelveth\bin\Debug\net7.0\twelveth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\twelveth\bin\Debug\net7.0\twelveth.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\twelveth\obj\Debug\net7.0\twelveth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asm\Desktop\ITI-Course\C#\twelveth\obj\Debug\net7.0\twelveth.AssemblyInfoInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\twelveth\obj\Debug\net7.0\twelveth.AssemblyInfo.cs
+C:\Users\asm\Desktop\ITI-Course\C#\twelveth\obj\Debug\net7.0\twelveth.csproj.CoreCompileInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\twelveth\obj\Debug\net7.0\twelveth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\twelveth\obj\Debug\net7.0\refint\twelveth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\twelveth\obj\Debug\net7.0\twelveth.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\twelveth\obj\Debug\net7.0\twelveth.genruntimeconfig.cache
+C:\Users\asm\Desktop\ITI-Course\C#\twelveth\obj\Debug\net7.0\ref\twelveth.dll

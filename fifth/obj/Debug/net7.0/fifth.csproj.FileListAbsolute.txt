@@ -1,0 +1,14 @@
+C:\Users\asm\Desktop\ITI-Course\C#\fifth\bin\Debug\net7.0\fifth.exe
+C:\Users\asm\Desktop\ITI-Course\C#\fifth\bin\Debug\net7.0\fifth.deps.json
+C:\Users\asm\Desktop\ITI-Course\C#\fifth\bin\Debug\net7.0\fifth.runtimeconfig.json
+C:\Users\asm\Desktop\ITI-Course\C#\fifth\bin\Debug\net7.0\fifth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\fifth\bin\Debug\net7.0\fifth.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\fifth\obj\Debug\net7.0\fifth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asm\Desktop\ITI-Course\C#\fifth\obj\Debug\net7.0\fifth.AssemblyInfoInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\fifth\obj\Debug\net7.0\fifth.AssemblyInfo.cs
+C:\Users\asm\Desktop\ITI-Course\C#\fifth\obj\Debug\net7.0\fifth.csproj.CoreCompileInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\fifth\obj\Debug\net7.0\fifth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\fifth\obj\Debug\net7.0\refint\fifth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\fifth\obj\Debug\net7.0\fifth.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\fifth\obj\Debug\net7.0\fifth.genruntimeconfig.cache
+C:\Users\asm\Desktop\ITI-Course\C#\fifth\obj\Debug\net7.0\ref\fifth.dll

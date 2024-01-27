@@ -1,0 +1,14 @@
+C:\Users\asm\Desktop\ITI-Course\C#\ConsoleApp1\bin\Debug\net7.0\twentieththree.exe
+C:\Users\asm\Desktop\ITI-Course\C#\ConsoleApp1\bin\Debug\net7.0\twentieththree.deps.json
+C:\Users\asm\Desktop\ITI-Course\C#\ConsoleApp1\bin\Debug\net7.0\twentieththree.runtimeconfig.json
+C:\Users\asm\Desktop\ITI-Course\C#\ConsoleApp1\bin\Debug\net7.0\twentieththree.dll
+C:\Users\asm\Desktop\ITI-Course\C#\ConsoleApp1\bin\Debug\net7.0\twentieththree.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\ConsoleApp1\obj\Debug\net7.0\twentieththree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asm\Desktop\ITI-Course\C#\ConsoleApp1\obj\Debug\net7.0\twentieththree.AssemblyInfoInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\ConsoleApp1\obj\Debug\net7.0\twentieththree.AssemblyInfo.cs
+C:\Users\asm\Desktop\ITI-Course\C#\ConsoleApp1\obj\Debug\net7.0\twentieththree.csproj.CoreCompileInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\ConsoleApp1\obj\Debug\net7.0\twentieththree.dll
+C:\Users\asm\Desktop\ITI-Course\C#\ConsoleApp1\obj\Debug\net7.0\refint\twentieththree.dll
+C:\Users\asm\Desktop\ITI-Course\C#\ConsoleApp1\obj\Debug\net7.0\twentieththree.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\ConsoleApp1\obj\Debug\net7.0\twentieththree.genruntimeconfig.cache
+C:\Users\asm\Desktop\ITI-Course\C#\ConsoleApp1\obj\Debug\net7.0\ref\twentieththree.dll

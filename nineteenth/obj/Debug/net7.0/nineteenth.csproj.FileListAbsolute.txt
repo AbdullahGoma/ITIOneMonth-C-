@@ -1,0 +1,14 @@
+C:\Users\asm\Desktop\ITI-Course\C#\nineteenth\bin\Debug\net7.0\nineteenth.exe
+C:\Users\asm\Desktop\ITI-Course\C#\nineteenth\bin\Debug\net7.0\nineteenth.deps.json
+C:\Users\asm\Desktop\ITI-Course\C#\nineteenth\bin\Debug\net7.0\nineteenth.runtimeconfig.json
+C:\Users\asm\Desktop\ITI-Course\C#\nineteenth\bin\Debug\net7.0\nineteenth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\nineteenth\bin\Debug\net7.0\nineteenth.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\nineteenth\obj\Debug\net7.0\nineteenth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asm\Desktop\ITI-Course\C#\nineteenth\obj\Debug\net7.0\nineteenth.AssemblyInfoInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\nineteenth\obj\Debug\net7.0\nineteenth.AssemblyInfo.cs
+C:\Users\asm\Desktop\ITI-Course\C#\nineteenth\obj\Debug\net7.0\nineteenth.csproj.CoreCompileInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\nineteenth\obj\Debug\net7.0\nineteenth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\nineteenth\obj\Debug\net7.0\refint\nineteenth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\nineteenth\obj\Debug\net7.0\nineteenth.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\nineteenth\obj\Debug\net7.0\nineteenth.genruntimeconfig.cache
+C:\Users\asm\Desktop\ITI-Course\C#\nineteenth\obj\Debug\net7.0\ref\nineteenth.dll

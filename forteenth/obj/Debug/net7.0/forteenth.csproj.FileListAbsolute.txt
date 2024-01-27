@@ -1,0 +1,14 @@
+C:\Users\asm\Desktop\ITI-Course\C#\forteenth\obj\Debug\net7.0\forteenth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asm\Desktop\ITI-Course\C#\forteenth\obj\Debug\net7.0\forteenth.AssemblyInfoInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\forteenth\obj\Debug\net7.0\forteenth.AssemblyInfo.cs
+C:\Users\asm\Desktop\ITI-Course\C#\forteenth\obj\Debug\net7.0\forteenth.csproj.CoreCompileInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\forteenth\bin\Debug\net7.0\forteenth.exe
+C:\Users\asm\Desktop\ITI-Course\C#\forteenth\bin\Debug\net7.0\forteenth.deps.json
+C:\Users\asm\Desktop\ITI-Course\C#\forteenth\bin\Debug\net7.0\forteenth.runtimeconfig.json
+C:\Users\asm\Desktop\ITI-Course\C#\forteenth\bin\Debug\net7.0\forteenth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\forteenth\bin\Debug\net7.0\forteenth.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\forteenth\obj\Debug\net7.0\forteenth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\forteenth\obj\Debug\net7.0\refint\forteenth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\forteenth\obj\Debug\net7.0\forteenth.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\forteenth\obj\Debug\net7.0\forteenth.genruntimeconfig.cache
+C:\Users\asm\Desktop\ITI-Course\C#\forteenth\obj\Debug\net7.0\ref\forteenth.dll

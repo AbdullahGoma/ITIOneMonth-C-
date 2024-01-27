@@ -1,0 +1,14 @@
+C:\Users\asm\Desktop\ITI-Course\C#\second\bin\Debug\net7.0\second.exe
+C:\Users\asm\Desktop\ITI-Course\C#\second\bin\Debug\net7.0\second.deps.json
+C:\Users\asm\Desktop\ITI-Course\C#\second\bin\Debug\net7.0\second.runtimeconfig.json
+C:\Users\asm\Desktop\ITI-Course\C#\second\bin\Debug\net7.0\second.dll
+C:\Users\asm\Desktop\ITI-Course\C#\second\bin\Debug\net7.0\second.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\second\obj\Debug\net7.0\second.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asm\Desktop\ITI-Course\C#\second\obj\Debug\net7.0\second.AssemblyInfoInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\second\obj\Debug\net7.0\second.AssemblyInfo.cs
+C:\Users\asm\Desktop\ITI-Course\C#\second\obj\Debug\net7.0\second.csproj.CoreCompileInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\second\obj\Debug\net7.0\second.dll
+C:\Users\asm\Desktop\ITI-Course\C#\second\obj\Debug\net7.0\refint\second.dll
+C:\Users\asm\Desktop\ITI-Course\C#\second\obj\Debug\net7.0\second.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\second\obj\Debug\net7.0\second.genruntimeconfig.cache
+C:\Users\asm\Desktop\ITI-Course\C#\second\obj\Debug\net7.0\ref\second.dll

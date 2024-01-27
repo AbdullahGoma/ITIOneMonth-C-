@@ -1,0 +1,14 @@
+C:\Users\asm\Desktop\ITI-Course\C#\sixth\obj\Debug\net7.0\sixth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asm\Desktop\ITI-Course\C#\sixth\obj\Debug\net7.0\sixth.AssemblyInfoInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\sixth\obj\Debug\net7.0\sixth.AssemblyInfo.cs
+C:\Users\asm\Desktop\ITI-Course\C#\sixth\obj\Debug\net7.0\sixth.csproj.CoreCompileInputs.cache
+C:\Users\asm\Desktop\ITI-Course\C#\sixth\bin\Debug\net7.0\sixth.exe
+C:\Users\asm\Desktop\ITI-Course\C#\sixth\bin\Debug\net7.0\sixth.deps.json
+C:\Users\asm\Desktop\ITI-Course\C#\sixth\bin\Debug\net7.0\sixth.runtimeconfig.json
+C:\Users\asm\Desktop\ITI-Course\C#\sixth\bin\Debug\net7.0\sixth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\sixth\bin\Debug\net7.0\sixth.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\sixth\obj\Debug\net7.0\sixth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\sixth\obj\Debug\net7.0\refint\sixth.dll
+C:\Users\asm\Desktop\ITI-Course\C#\sixth\obj\Debug\net7.0\sixth.pdb
+C:\Users\asm\Desktop\ITI-Course\C#\sixth\obj\Debug\net7.0\sixth.genruntimeconfig.cache
+C:\Users\asm\Desktop\ITI-Course\C#\sixth\obj\Debug\net7.0\ref\sixth.dll
